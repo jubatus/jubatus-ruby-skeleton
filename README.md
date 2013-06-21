@@ -1,5 +1,5 @@
-Skelton of Jubatus Client Application in Ruby
-=============================================
+Skeleton of Jubatus Client Application in Ruby
+===============================================
 
 Requirements
 ------------
