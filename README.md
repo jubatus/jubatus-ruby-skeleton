@@ -4,7 +4,7 @@ Skeleton of Jubatus Client Application in Ruby
 Requirements
 ------------
 
-* Jubatus server 0.4.2+
+* Jubatus server 0.5.0+
 * jubatus gem ( install via `gem install jubatus` )
 
 Usage
