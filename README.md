@@ -13,8 +13,10 @@ Usage
 To test the client, run:
 
 ```
-$ jubarecommender --configpath config.json &
+$ jubarecommender --configpath /usr/local/share/jubatus/example/config/recommender/lsh.json &
 $ ruby client.rb
 ```
+
+We assume that Jubatus was installed into /usr/local/. Otherwise, please modify the path.
 
 Now, write your own code in `client.rb`, then run the client again.
